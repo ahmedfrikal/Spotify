@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spotify-clone-back.iml" filepath="$PROJECT_DIR$/.idea/spotify-clone-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-clone-back/spotify-clone-back.iml" filepath="$PROJECT_DIR$/spotify-clone-back/spotify-clone-back.iml" />
     </modules>
   </component>
 </project>
